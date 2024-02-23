@@ -16,3 +16,14 @@
     max-width: 30rem;
     margin: 4rem auto;
 }
+body{
+    font-family: sans-serif;
+}
+section{
+    width: 100%;
+    max-width: 50rem;
+    height: 30rem;
+    margin: 2rem auto;
+    
+
+}
